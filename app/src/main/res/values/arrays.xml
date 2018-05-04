@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_trip_types_options">
+        <item>@string/type_unknown</item>
+        <item>@string/type_oneWay</item>
+        <item>@string/type_twoDirction</item>
+    </string-array>
+</resources>

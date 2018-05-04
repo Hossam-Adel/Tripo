@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tripo</string>
+    <string name="action_settings">Settings</string>
+    <string name="TripTitle">Title</string>
+    <string name="StartLocation">Start Location</string>
+    <string name="EndLocation">End Location</string>
+    <string name="DateAndTime"> Date and Time </string>
+    <string name="PastTrips">Past Trips</string>
+    <string name="UpComingTrips">Upcoming Trips</string>
+    <string name="newTrip">+</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="CreateNewTrip">Create A New Trip</string>
+    <string name="TripTitleText">Title</string>
+    <string name="TripStart">From</string>
+    <string name="TripEnd">To</string>
+    <string name="TripDate">10 Jan 2018</string>
+    <string name="TripTime">5:00 PM</string>
+    <string name="TripNotes">Add Note</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="tripType">Trip type</string>
+
+    <string name="type_unknown">Choose Trip Type : </string>
+    <string name="type_oneWay">One Way</string>
+    <string name="type_twoDirction">Two Diretcion</string>
+    <string name="NoTripsFound">No Trips Found</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="facebook_app_id">380896962376120</string>
+    <string name="fb_login_protocol_scheme">fb380896962376120</string>
+
+</resources>
